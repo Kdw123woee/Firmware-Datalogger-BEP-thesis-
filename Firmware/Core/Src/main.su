@@ -1,0 +1,15 @@
+../Core/Src/main.c:81:5:__io_putchar	16	static
+../Core/Src/main.c:93:16:AT_ReadTemperature	64	static
+../Core/Src/main.c:136:16:TI_ReadTemperature	48	static
+../Core/Src/main.c:169:6:WriteToMem	64	static
+../Core/Src/main.c:205:6:Reset_WriteAddress	48	static
+../Core/Src/main.c:229:6:I2C_Scan	32	static
+../Core/Src/main.c:257:5:main	24	static
+../Core/Src/main.c:324:6:SystemClock_Config	112	static
+../Core/Src/main.c:366:13:MX_I2C2_Init	8	static
+../Core/Src/main.c:421:13:MX_I2C3_Init	8	static
+../Core/Src/main.c:476:13:MX_LPTIM1_Init	8	static
+../Core/Src/main.c:511:13:MX_RTC_Init	8	static
+../Core/Src/main.c:547:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:595:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:640:6:Error_Handler	8	static,ignoring_inline_asm
